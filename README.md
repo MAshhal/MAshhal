@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate :(
 - 📫 How to reach me no u
 
+Currently Learning Jetpack Compose :)
+
 - My First App : https://play.google.com/store/apps/details?id=com.ashal.voiceecho
 - My Second App : https://play.google.com/store/apps/details?id=com.mobile.booster.junk.cleaner
 - Developer for this app : https://play.google.com/store/apps/details?id=azan.athan.prayer.time.saudi.arabia
