@@ -1,44 +1,32 @@
-<!--
-- 👋 Hi, I’m @MAshhal
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Studio (Java/Kotlin) and developing apps
-- 💞️ I’m looking to collaborate :(
-- 📫 How to reach me no u
+<img src="https://github.com/user-attachments/assets/0e4ec5f1-fda6-4442-9aef-eee3f5b5cdb0" alt="my_banner">
 
-Currently Learning Jetpack Compose :)
+<h2>
+  Assalamu Alaikum, I'm Ashhal - Android App Developer
+</h3>
 
-- My First App : https://play.google.com/store/apps/details?id=com.ashal.voiceecho
-- My Second App : https://play.google.com/store/apps/details?id=com.mobile.booster.junk.cleaner
-- Developer for this app : https://play.google.com/store/apps/details?id=azan.athan.prayer.time.saudi.arabia --->
+I'm a CS student passionate about app development. <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAshhal&label=Profile%20views&color=0e75b6&style=flat" alt="MAshhal" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MAshhal"/></a> </p>
 
-# Hi there! 👋
+<!-- ### 🤝 Connect with me: -->
 
-I'm Muhammad Ashhal, a Computer Science student passionate about Android development. Currently, I'm learning Jetpack Compose to create modern and intuitive user interfaces. 
+## 🔭 I'm currently working on
 
-## 🚀 Skills
-- Java
-- Kotlin
-- Android Development
+- A prayer alarm app
+- Kotlin DSL for WorkManager
+- NoThanks in Compose
+
+## 🌱 I'm currently learning
+
 - Jetpack Compose
-- Python
+- Discord Bot Development
 
-## 🌱 Learning
-- Jetpack Compose
-- Data Structures & Algorithms
+## 💼 Technical Skills
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📚 Education
-- Bachelor's in Computer Science, Virtual University
-
-<!--
-## 💻 Projects
-- [Project 1](link-to-project-1): Description of project 1
-- [Project 2](link-to-project-2): Description of project 2
-
-Feel free to connect and collaborate on projects!
---->
-
-
-<!---
-MAshhal/MAshhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![My github stats](https://github-readme-stats.vercel.app/api?username=MAshhal)
