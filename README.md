@@ -1,11 +1,17 @@
-<img src="https://github.com/user-attachments/assets/0e4ec5f1-fda6-4442-9aef-eee3f5b5cdb0" alt="my_banner">
+<!-- <img src="https://github.com/user-attachments/assets/0e4ec5f1-fda6-4442-9aef-eee3f5b5cdb0" alt="my_banner"> -->
 
 <h2>
   Assalamu Alaikum, I'm Ashhal - Android App Developer
 </h3>
 
-I'm a CS student passionate about app development. <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAshhal&label=Profile%20views&color=0e75b6&style=flat" alt="MAshhal" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MAshhal"/></a> </p>
+I'm a CS student passionate about app development. 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAshhal&label=Profile%20views&color=0e75b6&style=flat" alt="MAshhal" /> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MAshhal"/></a> </p> -->
+
+![Overview Dark](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- ### 🤝 Connect with me: -->
 
