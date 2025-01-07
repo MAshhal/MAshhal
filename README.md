@@ -1,36 +1,86 @@
-<!-- <img src="https://github.com/user-attachments/assets/0e4ec5f1-fda6-4442-9aef-eee3f5b5cdb0" alt="my_banner"> -->
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-<h2>
-  Assalamu Alaikum, I'm Ashhal - Android App Developer
-</h3>
+###
 
-I'm a CS student passionate about app development. 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAshhal&label=Profile%20views&color=0e75b6&style=flat" alt="MAshhal" /> </p> -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MAshhal"/></a> </p> -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="32" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="32" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="32" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="48" height="32" alt="stackoverflow logo"  />
+</div>
 
-![Overview Dark](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MAshhal/GithubStats/refs/heads/master/generated/languages.svg#gh-light-mode-only)
+###
 
-<!-- ### 🤝 Connect with me: -->
+<h2 align="center">Hey there, I'm Muhammad Ashhal 👋</h2>
 
-## 🔭 I'm currently working on
+###
 
-- A prayer alarm app
-- Kotlin DSL for WorkManager
-- NoThanks in Compose
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 🌱 I'm currently learning
+###
 
-- Jetpack Compose
-- Discord Bot Development
+<h6 align="left">I'm a passionate software developer with a keen interest in Android development, Jetpack Compose, and open-source contributions. I love learning new technologies and figuring out how to share with the community. <br><br>- 🔭 I’m currently working on various android projects<br>- 🌱 I’m currently learning more about Jetpack Compose and APIs in general.<br>- 👯 I’m looking to collaborate on open-source projects<br>- 💬 Ask me about android development, Java, Kotlin.<br>- ⚡ Fun fact: I enjoy playing Tekken 8 with my friends in my free time😅</h6>
 
-## 💼 Technical Skills
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="32" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="32" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="32" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="32" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="32" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="32" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAshhal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MAshhal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAshhal&radius=16&theme=gruvbox&area=true&order=5&hide_border=false&hide_title=false" height="230" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MAshhal/MAshhal/output/snake.svg" alt="Snake animation" />
+
+###
