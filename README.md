@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Hey there, I'm Muhammad Ashhal 👋</h2>
+<h2 align="center">Assalamu Alaikum, I'm Muhammad Ashhal 👋</h2>
 
 ###
 
