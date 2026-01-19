@@ -33,15 +33,19 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="32" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="32" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="32" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="32" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="32" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="32" alt="gradle logo"  />
   <img width="12" />
@@ -53,9 +57,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="32" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="32" alt="jetbrains logo"  />
+  <img src="https://cdn.simpleicons.org/phpstorm/FFFFFF" height="32" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/intellijidea/FFFFFF" height="32" alt="IDEA logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubuntu/0079C1" height="32" alt="KUbuntu logo"  />
 </div>
 
 ###
